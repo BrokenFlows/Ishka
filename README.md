@@ -1,7 +1,9 @@
 # Ishka
 Ishka is a 46-key split key-well ergonomic keyboard
 
-![Left Ishka Photo](images/ishka_left.png)
+![Ishka Photo](images/ishka.jpeg)
+
+![Ishka Pair Photo](images/ishka_pair.jpeg)
 
 ## Bill of Materials
 TO DO
@@ -9,7 +11,7 @@ TO DO
 ## Hand-wiring
 TO DO
 
-![Photo of Ishka Left Half Wiring without Controller](images/matrix.png)
+![Photo of Ishka Left Half Wiring without Controller](images/matrix.jpeg)
 
 ## Microcontroller and Firmware
 Ishka's a hand-wired keyboard project powered by a [nice!nano](https://nicekeyboards.com/nice-nano) V2 and [ZMK](https://zmk.dev).
